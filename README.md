@@ -11,11 +11,11 @@ terraform/
 ```
 ## Requirements
  Terraform CLI Installation
-  ```
-    https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
-```
+➡️ Install Guide:  
+[Terraform CLI Installation Guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+
 ##   AWS CLI installed & configured
-# 1. Download installer
+# . Download installer
 ```
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 
